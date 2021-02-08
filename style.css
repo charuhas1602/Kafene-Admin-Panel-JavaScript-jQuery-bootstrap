@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0; box-sizing: border-box; font-size: 15px;}
+.active{color:#20B883 !important; font-weight: 500 !important;}
+.form-control{border-radius: none !important;}
+
+.form-control:focus {
+    color: #000 !important;
+    background-color: #fff;
+    border-color: #2d2d !important;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
